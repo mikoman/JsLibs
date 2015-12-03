@@ -11,5 +11,11 @@
 * **Tether** JavaScript library for aligning an absolutely positioned element next to another, i.e. a Tooltip. Lightweight (5kb) supports IE9+. [http://github.hubspot.com/tether/](http://github.hubspot.com/tether/docs/welcome/)
 
 * **Shepherd** Interactive Webpage demo. [http://github.hubspot.com/shepherd](http://github.hubspot.com/shepherd/docs/welcome/)
+
+### Contributing
+
+Please copy the original layout and be sure to provide a description and a link to the docs and or source code.  [Here](https://github.com/CodeTankLtd/JsLibs/edit/master/README.md) 
+
+
  
 
