@@ -2,7 +2,7 @@
 
 * **Uranium:** Interaction library, includes Carousel, Geolocation, Input clear, Tabs, Toggler and Image Zoom. Depends on jQuery.  [http://uranium.io](http://uranium.io/)
 
-* **Openseadragon** JavaScript viewer for very high-resolution zoomable images, for desktop and mobile. Support for large variety of input formats and extendable with multiple plugins. [http://openseadragon.github.io](http://openseadragon.github.io/)
+* **Openseadragon** JavaScript viewer for very high-resolution zoomable images, for desktop and mobile. Support for large variety of input formats and extendable with multiple plugins. [http://openseadragon.github.io](http://openseadragon.github.io/) Example use: [http://www.chronozoom.com](http://www.chronozoom.com/#/t00000000-0000-0000-0000-000000000000@x=0&y=0&w=1.9572839680303202&h=1.0500364596870078) 
 
 * **Pace** Navigation and or Ajax progress inidcator. Complete Api and fully stylable. [http://github.hubspot.com/pace](http://github.hubspot.com/pace/docs/welcome/)
 
