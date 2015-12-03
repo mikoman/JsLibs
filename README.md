@@ -4,7 +4,7 @@
 
 * **Openseadragon** JavaScript viewer for very high-resolution zoomable images, for desktop and mobile. Support for large variety of input formats and extendable with multiple plugins. [http://openseadragon.github.io](http://openseadragon.github.io/)
 
-* **Pace** Navigation and or Ajax progress inidcator. Complete Api and fully stylable. [http://github.hubspot.com/odometer](http://github.hubspot.com/odometer/docs/welcome/)
+* **Pace** Navigation and or Ajax progress inidcator. Complete Api and fully stylable. [http://github.hubspot.com/pace](http://github.hubspot.com/pace/docs/welcome/)
 
 * **Leaflet :** Open source alternative to google maps, developed for mobile first. Powerred by OpenStreetMap data. Very lightweight and with a host of features and plugins. Used by facebook, github, flickr, pininterest...  [http://leafletjs.com](http://leafletjs.com/)
 
